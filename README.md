@@ -3,6 +3,8 @@
 ![Screenshot 2023-09-06 231636](https://github.com/jaideepsingh0085/bg-props/assets/128147644/df203303-ce3b-4bbc-b69f-e7cd7ff07020)
 ![Screenshot 2023-09-06 231649](https://github.com/jaideepsingh0085/bg-props/assets/128147644/e5a84e05-901e-42fc-aaa1-ddb68369d1c5)
 
+Hosted Link : https://jaideepsingh0085.github.io/bg-props/
+
 HTML Description:
 <!DOCTYPE html>: Declares the document type as HTML5.
 
